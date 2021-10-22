@@ -13,7 +13,7 @@ This project is a path finder visualizer, fully coded in python with pygame. It 
 ## Installation
 You can download the windows executable below:
 <p align="left">
- <a href="https://github.com/aleolux/pythonPathFinderVisualizer/blob/main/exec/pythonPathFinderVisualizer.exe" target="_blank">
+ <a href="https://github.com/aleolux/pythonPathFinderVisualizer/raw/main/exec/pythonPathFinderVisualizer.exe" target="_blank">
   <img src="docs/windows.png" width="250" alt="Download for Windows">
  </a>
 <p>
