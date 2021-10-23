@@ -3,8 +3,8 @@
 ## Table of contents 
  * [Overview](#Overview)
  * [Installation](#Installation)
- * [How to use](#How to use)
- * [Helpful Links](#Helpful Links)
+ * [How to use](#How-to-use)
+ * [Helpful Links](#Helpful-Links)
  * [Contributing](#Contributing)
  
 ## Overview
