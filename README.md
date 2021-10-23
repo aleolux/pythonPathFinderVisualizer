@@ -1,11 +1,11 @@
 # Python Path Finder Visualizer
 
 ## Table of contents 
- * Overview
- * Installation
- * How to use
- * Helpful Links
- * Contributing
+ * [Overview](#Overview)
+ * [Installation](#Installation)
+ * [How to use](#How to use)
+ * [Helpful Links](#Helpful Links)
+ * [Contributing](#Contributing)
  
 ## Overview
 This project is a path finder visualizer, fully coded in python with pygame. It features three different types of graph traversal algorithms and uses random recursive divisions for the maze generator.
