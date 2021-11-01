@@ -27,7 +27,7 @@ $ python main.py
 
 ## How to use
  
-- Drag and drop Start/End node by clicking a first time on it to pick it up, and a second time on the grid to drop it.
+- Pick and drop Start/End node by clicking a first time on it to pick it up, and a second time on the grid to drop it.
 - Draw walls by left clicking on the grid
 - Pick the algorithm of your choice and click "SOLVE" to visualize the path from the Start node to the target End node! 
  
